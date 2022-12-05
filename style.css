@@ -1,0 +1,28 @@
+html{
+    background-image: url(img/Background.jpg);
+    background-size: cover;
+}
+
+nav ul li a{
+    color:white
+}
+
+body{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+nav ul{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+    width: 30%;
+    padding: 20px;;
+    margin-left: 110px;
+    height: 30px;
+}
+.brd{
+    border: 2px;
+    background-color:darkslateblue;
+    padding: 5px;
+}
