@@ -26,3 +26,19 @@ nav ul{
     background-color:darkslateblue;
     padding: 5px;
 }
+
+span{
+    color: white;
+    align-items: center;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 33px;
+    text-align: center;
+}
+
+#pr1{
+    position: absolute;
+    background-color: darkslategray;
+}
+
